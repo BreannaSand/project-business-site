@@ -1,5 +1,26 @@
 /* After you've linked the CSS file in the HTML,
 this should turn the background blue ;) */
 body {
-  background: blue;
+  background: #eaac8b;
+  color: #ce4257;
+  text-align: center;
+}
+
+.form-container {
+  background: #e56b6f;
+  color: #6d597a;
+  padding: 20px 20px 35px 20px;
+  margin: 80px 500px;
+  border-radius: 10px;
+  border: #6d597a;
+  line-height: 18px;
+}
+
+.form-elements {
+  background: #e56b6f;
+
+}
+
+.form-container h1 {
+  padding-bottom: 12px;
 }
